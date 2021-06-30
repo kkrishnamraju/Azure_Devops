@@ -1,0 +1,7 @@
+Public class ProductInfo
+{
+   public void ProductDetails()
+{
+    // logic about product details 
+}
+}
